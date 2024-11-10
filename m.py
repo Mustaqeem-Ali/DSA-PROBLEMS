@@ -1,0 +1,1 @@
+print("my name is mustaqeem ali")
