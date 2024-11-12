@@ -15,7 +15,7 @@
 
 arr = [7, 3, 2, 4, 9, 12, 56]
 m = 5
-
+arr.sort()
 n = len(arr)
 min_diff = float('inf')
 for i in range(n - m + 1): #here last 4 elements cant iterated because fixed size of 5
